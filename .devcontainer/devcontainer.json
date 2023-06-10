@@ -14,5 +14,20 @@
     "ghcr.io/christophermacgown/devcontainer-features/direnv:1": {}
   },
   "updateContentCommand": "nix develop --build --impure",
-  "mounts": ["source=nix,target=/nix,type=volume"]
+  "mounts": ["source=nix,target=/nix,type=volume"],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "jnoortheen.nix-ide",
+        "mkhl.direnv",
+        "yzhang.markdown-all-in-one",
+        "sonarsource.sonarlint-vscode",
+        "github.vscode-pull-request-github",
+        "github.vscode-github-actions",
+        "streetsidesoftware.code-spell-checker",
+        "foxundermoon.shell-format",
+        "pomdtr.excalidraw-editor"
+      ]
+    }
+  }
 }
