@@ -1,0 +1,143 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "_qkTvOpxqkzMLHdqQaOks",
+      "type": "text",
+      "x": 518.5390625,
+      "y": 313.171875,
+      "width": 226.9797821044922,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 369377855,
+      "version": 49,
+      "versionNonce": 9324703,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "EBfzCP2D0S6O09tNVygO5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688388964828,
+      "link": "https://skillshop.exceedlms.com/student/collection/650668/path/1697551",
+      "locked": false,
+      "text": "Business Communication",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Business Communication",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "zHUgmIrE0Piodu1H-orPc",
+      "type": "text",
+      "x": 374.70294189453125,
+      "y": 447.11138916015625,
+      "width": 203.5198516845703,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1708925361,
+      "version": 153,
+      "versionNonce": 629286911,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "EBfzCP2D0S6O09tNVygO5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688388955104,
+      "link": null,
+      "locked": false,
+      "text": "- Title\n- Date\n- Brackground\n- Key Findings\n- References\n- Executive Summary\n  - Brackground\n  - Key Findings\n  - Recommandations",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 218,
+      "containerId": null,
+      "originalText": "- Title\n- Date\n- Brackground\n- Key Findings\n- References\n- Executive Summary\n  - Brackground\n  - Key Findings\n  - Recommandations",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "EBfzCP2D0S6O09tNVygO5",
+      "type": "arrow",
+      "x": 611.4008167571253,
+      "y": 349.640625,
+      "width": 97.04682094103146,
+      "height": 85.82000732421875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 365583135,
+      "version": 64,
+      "versionNonce": 2015023135,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688388955105,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -97.04682094103146,
+          85.82000732421875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "_qkTvOpxqkzMLHdqQaOks",
+        "focus": -0.049812928467241585,
+        "gap": 11.46875
+      },
+      "endBinding": {
+        "elementId": "zHUgmIrE0Piodu1H-orPc",
+        "focus": -0.44764677107541423,
+        "gap": 11.6507568359375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
