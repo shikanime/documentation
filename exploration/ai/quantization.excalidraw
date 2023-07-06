@@ -4,39 +4,266 @@
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
-      "id": "GMKCkm4DYd1H_S-gxpsJS",
       "type": "text",
-      "x": 465.6171875,
-      "y": 305.5078125,
-      "width": 627.759521484375,
-      "height": 25,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 89,
+      "versionNonce": 628892780,
+      "isDeleted": false,
+      "id": "GMKCkm4DYd1H_S-gxpsJS",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 274.3515625,
+      "y": 324.25,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 627.759521484375,
+      "height": 25,
+      "seed": 1813095742,
       "groupIds": [],
       "roundness": null,
-      "seed": 1813095742,
-      "version": 54,
-      "versionNonce": 2124334270,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1688647597394,
+      "boundElements": [
+        {
+          "id": "3Dj4KYvCH5BakYF30KFFY",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688649540441,
       "link": "https://medium.com/@bnjmn_marie/lightweight-inference-with-large-language-models-using-qlora-335a3f029229",
       "locked": false,
-      "text": "Lightweight Inference with Large Language Models Using QLoRa",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Lightweight Inference with Large Language Models Using QLoRa",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 18,
       "containerId": null,
       "originalText": "Lightweight Inference with Large Language Models Using QLoRa",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 48,
+      "versionNonce": 454535252,
+      "isDeleted": false,
+      "id": "SP1e3K48I913HUMvXxRov",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 431.4609375,
+      "y": 462.9195556640625,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 331.0597229003906,
+      "height": 25,
+      "seed": 1512275198,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "3Dj4KYvCH5BakYF30KFFY",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688649540442,
+      "link": "https://huggingface.co/docs/transformers/main/en/main_classes/quantization",
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Quantize 🤗 Transformers models",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Quantize 🤗 Transformers models",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "arrow",
+      "version": 129,
+      "versionNonce": 1655347958,
+      "isDeleted": false,
+      "id": "3Dj4KYvCH5BakYF30KFFY",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 597.265625,
+      "y": 360.4453125,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 7.328125,
+      "height": 92.1484375,
+      "seed": 1865948926,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1688647865457,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "GMKCkm4DYd1H_S-gxpsJS",
+        "focus": -0.03467635559196103,
+        "gap": 11.1953125
+      },
+      "endBinding": {
+        "elementId": "SP1e3K48I913HUMvXxRov",
+        "focus": -0.05325676855929985,
+        "gap": 10.3258056640625
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -7.328125,
+          92.1484375
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 106,
+      "versionNonce": 30717676,
+      "isDeleted": false,
+      "id": "Jq0Df71kdHo7s2nYkIrPe",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 999.6611328125,
+      "y": 330.77874755859375,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 543.899658203125,
+      "height": 25,
+      "seed": 451956586,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "ZeeY78BIzIKVz0vShfgSc",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688649540443,
+      "link": "https://medium.com/@bnjmn_marie/fine-tune-falcon-7b-on-your-gpu-with-trl-and-qlora-4490fadc3fbb",
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Fine-tune Falcon-7B on Your GPU with TRL and QLoRa",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Fine-tune Falcon-7B on Your GPU with TRL and QLoRa",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "text",
+      "version": 341,
+      "versionNonce": 1009221076,
+      "isDeleted": false,
+      "id": "xpAogXRbVkTnjW3Xy4cnq",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 994.7581787109375,
+      "y": 451.47607421875,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 558.5796508789062,
+      "height": 25,
+      "seed": 930646198,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "ZeeY78BIzIKVz0vShfgSc",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1688649540443,
+      "link": "https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b",
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "QLoRa: Fine-Tune a Large Language Model on Your GPU",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "QLoRa: Fine-Tune a Large Language Model on Your GPU",
+      "lineHeight": 1.25,
+      "baseline": 18
+    },
+    {
+      "type": "arrow",
+      "version": 234,
+      "versionNonce": 658641386,
+      "isDeleted": false,
+      "id": "ZeeY78BIzIKVz0vShfgSc",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1263.8793703035237,
+      "y": 368.19305419921875,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 1.8229244293875126,
+      "height": 74.50659179687506,
+      "seed": 258068074,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1688647887154,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "Jq0Df71kdHo7s2nYkIrPe",
+        "focus": 0.030637234186105693,
+        "gap": 12.414306640625
+      },
+      "endBinding": {
+        "elementId": "xpAogXRbVkTnjW3Xy4cnq",
+        "focus": -0.027987370030584952,
+        "gap": 8.776428222656193
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.8229244293875126,
+          74.50659179687506
+        ]
+      ]
     }
   ],
   "appState": {
