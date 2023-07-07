@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 503,
-      "versionNonce": 1985965041,
+      "version": 504,
+      "versionNonce": 2024000008,
       "isDeleted": false,
       "id": "BLwyw1Zf1AEv7yK8G7oVQ",
       "fillStyle": "hachure",
@@ -50,7 +50,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640648,
+      "updated": 1688754695807,
       "link": "https://www.wikihow.com/Start-a-Conversation-with-New-Friends",
       "locked": false,
       "fontSize": 20,
@@ -65,8 +65,8 @@
     },
     {
       "type": "text",
-      "version": 328,
-      "versionNonce": 848447391,
+      "version": 329,
+      "versionNonce": 735820408,
       "isDeleted": false,
       "id": "IC4MMouHejr_5cC3EBs-6",
       "fillStyle": "hachure",
@@ -98,7 +98,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640649,
+      "updated": 1688754695809,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -113,8 +113,8 @@
     },
     {
       "type": "text",
-      "version": 475,
-      "versionNonce": 743359953,
+      "version": 476,
+      "versionNonce": 1554860296,
       "isDeleted": false,
       "id": "LZS19utgYBfItqMQ-9Kqu",
       "fillStyle": "hachure",
@@ -142,7 +142,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640651,
+      "updated": 1688754695809,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -157,8 +157,8 @@
     },
     {
       "type": "text",
-      "version": 722,
-      "versionNonce": 424016831,
+      "version": 723,
+      "versionNonce": 107850616,
       "isDeleted": false,
       "id": "Dpt4tVC1OjuiHXXgu84ll",
       "fillStyle": "hachure",
@@ -182,7 +182,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640652,
+      "updated": 1688754695810,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -197,8 +197,8 @@
     },
     {
       "type": "text",
-      "version": 792,
-      "versionNonce": 49800113,
+      "version": 793,
+      "versionNonce": 556722184,
       "isDeleted": false,
       "id": "8jcJFeWZ8TcttWq8P5U3C",
       "fillStyle": "hachure",
@@ -286,7 +286,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640653,
+      "updated": 1688754695811,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -301,8 +301,8 @@
     },
     {
       "type": "text",
-      "version": 906,
-      "versionNonce": 867052511,
+      "version": 907,
+      "versionNonce": 2073656440,
       "isDeleted": false,
       "id": "C5ZprTjShwM_NoPzzpe46",
       "fillStyle": "hachure",
@@ -354,7 +354,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640654,
+      "updated": 1688754695812,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -369,8 +369,8 @@
     },
     {
       "type": "text",
-      "version": 1229,
-      "versionNonce": 1182942609,
+      "version": 1230,
+      "versionNonce": 1109698312,
       "isDeleted": false,
       "id": "_mR2RkiSKSRQCMpHCBdtQ",
       "fillStyle": "hachure",
@@ -394,7 +394,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640654,
+      "updated": 1688754695812,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -409,8 +409,8 @@
     },
     {
       "type": "text",
-      "version": 1163,
-      "versionNonce": 232478719,
+      "version": 1164,
+      "versionNonce": 1562586488,
       "isDeleted": false,
       "id": "bv2s3LO1MTrofzUItBxTP",
       "fillStyle": "hachure",
@@ -434,7 +434,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640655,
+      "updated": 1688754695813,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -449,8 +449,8 @@
     },
     {
       "type": "text",
-      "version": 628,
-      "versionNonce": 1378184049,
+      "version": 629,
+      "versionNonce": 1544193544,
       "isDeleted": false,
       "id": "Jb4TU9nE2zRmy9tTLlt2_",
       "fillStyle": "hachure",
@@ -474,7 +474,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640656,
+      "updated": 1688754695814,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -897,8 +897,8 @@
     },
     {
       "type": "text",
-      "version": 467,
-      "versionNonce": 1573781535,
+      "version": 468,
+      "versionNonce": 609140344,
       "isDeleted": false,
       "id": "0PPGuhF53uYOqfvA7GQD5",
       "fillStyle": "hachure",
@@ -930,7 +930,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640657,
+      "updated": 1688754695816,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -996,8 +996,8 @@
     },
     {
       "type": "text",
-      "version": 495,
-      "versionNonce": 774427985,
+      "version": 496,
+      "versionNonce": 467436808,
       "isDeleted": false,
       "id": "Bf9zV4bqKkB77BSwvnMjV",
       "fillStyle": "hachure",
@@ -1029,7 +1029,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640659,
+      "updated": 1688754695817,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1095,8 +1095,8 @@
     },
     {
       "type": "text",
-      "version": 383,
-      "versionNonce": 1165403199,
+      "version": 384,
+      "versionNonce": 31469432,
       "isDeleted": false,
       "id": "hBUeHK9w2KmD8oDAmWAZR",
       "fillStyle": "hachure",
@@ -1148,7 +1148,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640660,
+      "updated": 1688754695818,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1265,8 +1265,8 @@
     },
     {
       "type": "text",
-      "version": 436,
-      "versionNonce": 1843659569,
+      "version": 437,
+      "versionNonce": 790012936,
       "isDeleted": false,
       "id": "spcGcNFab3yxpoFavuso5",
       "fillStyle": "hachure",
@@ -1302,7 +1302,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640662,
+      "updated": 1688754695819,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1368,8 +1368,8 @@
     },
     {
       "type": "text",
-      "version": 368,
-      "versionNonce": 1421198431,
+      "version": 369,
+      "versionNonce": 1847296120,
       "isDeleted": false,
       "id": "KHdsrddt7VSRkktgcXCu3",
       "fillStyle": "hachure",
@@ -1393,7 +1393,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640663,
+      "updated": 1688754695820,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1459,8 +1459,8 @@
     },
     {
       "type": "text",
-      "version": 365,
-      "versionNonce": 1304327441,
+      "version": 366,
+      "versionNonce": 867492616,
       "isDeleted": false,
       "id": "22tbht_ozn-x56xiAD1zh",
       "fillStyle": "hachure",
@@ -1488,7 +1488,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640664,
+      "updated": 1688754695821,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1554,8 +1554,8 @@
     },
     {
       "type": "text",
-      "version": 401,
-      "versionNonce": 1264312447,
+      "version": 402,
+      "versionNonce": 952414584,
       "isDeleted": false,
       "id": "NbkMAzGuGekScT1JEcu0e",
       "fillStyle": "hachure",
@@ -1579,7 +1579,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640665,
+      "updated": 1688754695822,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1645,8 +1645,8 @@
     },
     {
       "type": "text",
-      "version": 517,
-      "versionNonce": 288336625,
+      "version": 518,
+      "versionNonce": 674447880,
       "isDeleted": false,
       "id": "2pGzosMMFSqF7VHNJYY0B",
       "fillStyle": "hachure",
@@ -1670,7 +1670,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640666,
+      "updated": 1688754695823,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1736,8 +1736,8 @@
     },
     {
       "type": "text",
-      "version": 519,
-      "versionNonce": 455702687,
+      "version": 520,
+      "versionNonce": 421511800,
       "isDeleted": false,
       "id": "6si-n1Yui9B8NzwGCbjcx",
       "fillStyle": "hachure",
@@ -1761,7 +1761,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640667,
+      "updated": 1688754695823,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1827,8 +1827,8 @@
     },
     {
       "type": "text",
-      "version": 464,
-      "versionNonce": 549397713,
+      "version": 465,
+      "versionNonce": 1536016648,
       "isDeleted": false,
       "id": "2HPbAOFdcMDlnoMuBB5HH",
       "fillStyle": "hachure",
@@ -1852,7 +1852,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640668,
+      "updated": 1688754695824,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1867,8 +1867,8 @@
     },
     {
       "type": "text",
-      "version": 488,
-      "versionNonce": 701435071,
+      "version": 489,
+      "versionNonce": 1039184760,
       "isDeleted": false,
       "id": "aN3vRkLYQMpZsJtXahZjw",
       "fillStyle": "hachure",
@@ -1892,7 +1892,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640669,
+      "updated": 1688754695825,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1907,8 +1907,8 @@
     },
     {
       "type": "text",
-      "version": 465,
-      "versionNonce": 1745117873,
+      "version": 466,
+      "versionNonce": 1564499976,
       "isDeleted": false,
       "id": "W-8q6A-bPTD7u-8DbKbjZ",
       "fillStyle": "hachure",
@@ -1952,7 +1952,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640669,
+      "updated": 1688754695826,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2069,8 +2069,8 @@
     },
     {
       "type": "text",
-      "version": 436,
-      "versionNonce": 1391271135,
+      "version": 437,
+      "versionNonce": 1568375928,
       "isDeleted": false,
       "id": "6BqB-oX-nw61P2BUoNoIW",
       "fillStyle": "hachure",
@@ -2110,7 +2110,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640670,
+      "updated": 1688754695826,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2278,8 +2278,8 @@
     },
     {
       "type": "text",
-      "version": 363,
-      "versionNonce": 1940317329,
+      "version": 364,
+      "versionNonce": 1833377544,
       "isDeleted": false,
       "id": "KqWhezUjjxTQF7IC_nDaw",
       "fillStyle": "hachure",
@@ -2303,7 +2303,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640671,
+      "updated": 1688754695827,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2369,8 +2369,8 @@
     },
     {
       "type": "text",
-      "version": 400,
-      "versionNonce": 705964287,
+      "version": 401,
+      "versionNonce": 1166292344,
       "isDeleted": false,
       "id": "I0yURrvlhwJdZ9GQvY7-o",
       "fillStyle": "hachure",
@@ -2394,7 +2394,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640671,
+      "updated": 1688754695828,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2460,8 +2460,8 @@
     },
     {
       "type": "text",
-      "version": 499,
-      "versionNonce": 1331571313,
+      "version": 500,
+      "versionNonce": 1813904904,
       "isDeleted": false,
       "id": "unva-5f1nMPKHtEqQhJoz",
       "fillStyle": "hachure",
@@ -2489,7 +2489,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640672,
+      "updated": 1688754695828,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2606,8 +2606,8 @@
     },
     {
       "type": "text",
-      "version": 330,
-      "versionNonce": 2093265183,
+      "version": 331,
+      "versionNonce": 1800324728,
       "isDeleted": false,
       "id": "T9HLL1wsoKF-u00oUNVDN",
       "fillStyle": "hachure",
@@ -2635,7 +2635,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640673,
+      "updated": 1688754695830,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2752,8 +2752,8 @@
     },
     {
       "type": "text",
-      "version": 419,
-      "versionNonce": 603042897,
+      "version": 420,
+      "versionNonce": 1254161672,
       "isDeleted": false,
       "id": "0xJnfSyRTQcY3__TjM1TE",
       "fillStyle": "hachure",
@@ -2809,7 +2809,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640673,
+      "updated": 1688754695830,
       "link": "https://www.themuse.com/advice/30-brilliant-networking-conversation-starters",
       "locked": false,
       "fontSize": 20,
@@ -2926,8 +2926,8 @@
     },
     {
       "type": "text",
-      "version": 286,
-      "versionNonce": 342832447,
+      "version": 287,
+      "versionNonce": 2074031992,
       "isDeleted": false,
       "id": "F-nhmdnHy59ndHR8vjhTn",
       "fillStyle": "hachure",
@@ -2959,7 +2959,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640674,
+      "updated": 1688754695831,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3076,8 +3076,8 @@
     },
     {
       "type": "text",
-      "version": 477,
-      "versionNonce": 356057649,
+      "version": 478,
+      "versionNonce": 2058099720,
       "isDeleted": false,
       "id": "yPNSePxE1Q_lXBKSi-I35",
       "fillStyle": "hachure",
@@ -3113,7 +3113,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640675,
+      "updated": 1688754695831,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3179,8 +3179,8 @@
     },
     {
       "type": "text",
-      "version": 289,
-      "versionNonce": 947139935,
+      "version": 290,
+      "versionNonce": 1790543992,
       "isDeleted": false,
       "id": "gZLxl-dEpMjk6whNRNHaU",
       "fillStyle": "hachure",
@@ -3208,7 +3208,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640676,
+      "updated": 1688754695832,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3325,8 +3325,8 @@
     },
     {
       "type": "text",
-      "version": 276,
-      "versionNonce": 1612420113,
+      "version": 277,
+      "versionNonce": 1574656776,
       "isDeleted": false,
       "id": "N0jP1OrXMlfsHMabX8BWL",
       "fillStyle": "hachure",
@@ -3354,7 +3354,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640676,
+      "updated": 1688754695832,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3471,8 +3471,8 @@
     },
     {
       "type": "text",
-      "version": 233,
-      "versionNonce": 1881420159,
+      "version": 234,
+      "versionNonce": 73513336,
       "isDeleted": false,
       "id": "LDKKG4lMypc689bQwL3ZK",
       "fillStyle": "hachure",
@@ -3520,7 +3520,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640677,
+      "updated": 1688754695833,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3739,8 +3739,8 @@
     },
     {
       "type": "text",
-      "version": 174,
-      "versionNonce": 949021169,
+      "version": 175,
+      "versionNonce": 919255560,
       "isDeleted": false,
       "id": "20yrsJMY2Arl4Hru5kXc1",
       "fillStyle": "hachure",
@@ -3764,7 +3764,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640678,
+      "updated": 1688754695834,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3830,8 +3830,8 @@
     },
     {
       "type": "text",
-      "version": 265,
-      "versionNonce": 79669663,
+      "version": 266,
+      "versionNonce": 2078001784,
       "isDeleted": false,
       "id": "FTLo0EdLHugzTw_1Ghbmn",
       "fillStyle": "hachure",
@@ -3859,7 +3859,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640679,
+      "updated": 1688754695834,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3925,8 +3925,8 @@
     },
     {
       "type": "text",
-      "version": 227,
-      "versionNonce": 1738572753,
+      "version": 228,
+      "versionNonce": 410401032,
       "isDeleted": false,
       "id": "cvN-k9PQdnL6nr2oW5NU_",
       "fillStyle": "hachure",
@@ -3950,7 +3950,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640680,
+      "updated": 1688754695835,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4016,8 +4016,8 @@
     },
     {
       "type": "text",
-      "version": 289,
-      "versionNonce": 1131879871,
+      "version": 290,
+      "versionNonce": 2079046520,
       "isDeleted": false,
       "id": "8EfHlYJWqwkr0PlgzQD00",
       "fillStyle": "hachure",
@@ -4045,7 +4045,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640681,
+      "updated": 1688754695836,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4060,8 +4060,8 @@
     },
     {
       "type": "text",
-      "version": 172,
-      "versionNonce": 694280625,
+      "version": 173,
+      "versionNonce": 1448728584,
       "isDeleted": false,
       "id": "6CzEOoKV0V5E1pcJ0KIv-",
       "fillStyle": "hachure",
@@ -4085,7 +4085,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640683,
+      "updated": 1688754695836,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4202,8 +4202,8 @@
     },
     {
       "type": "text",
-      "version": 259,
-      "versionNonce": 2137722335,
+      "version": 260,
+      "versionNonce": 919964792,
       "isDeleted": false,
       "id": "C2YOY5XjSSKpP_HO0C01B",
       "fillStyle": "hachure",
@@ -4227,7 +4227,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640685,
+      "updated": 1688754695838,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4293,8 +4293,8 @@
     },
     {
       "type": "text",
-      "version": 133,
-      "versionNonce": 1258062737,
+      "version": 134,
+      "versionNonce": 1953601288,
       "isDeleted": false,
       "id": "S1RVwx74_uWBJPksJa3pH",
       "fillStyle": "hachure",
@@ -4326,7 +4326,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640686,
+      "updated": 1688754695839,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4392,8 +4392,8 @@
     },
     {
       "type": "text",
-      "version": 268,
-      "versionNonce": 1403779583,
+      "version": 269,
+      "versionNonce": 1985822072,
       "isDeleted": false,
       "id": "qmUfCZD_Fx9bdWVJ3JaeW",
       "fillStyle": "hachure",
@@ -4429,7 +4429,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640687,
+      "updated": 1688754695840,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4495,8 +4495,8 @@
     },
     {
       "type": "text",
-      "version": 160,
-      "versionNonce": 145222001,
+      "version": 161,
+      "versionNonce": 389641736,
       "isDeleted": false,
       "id": "ek_-ZdoZ2XoNWgKlcMbiL",
       "fillStyle": "hachure",
@@ -4528,7 +4528,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640687,
+      "updated": 1688754695840,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4594,8 +4594,8 @@
     },
     {
       "type": "text",
-      "version": 299,
-      "versionNonce": 624583199,
+      "version": 300,
+      "versionNonce": 734449272,
       "isDeleted": false,
       "id": "Qtgl8X3UA5BBwkZF7ppeh",
       "fillStyle": "hachure",
@@ -4631,7 +4631,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640688,
+      "updated": 1688754695841,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4646,8 +4646,8 @@
     },
     {
       "type": "text",
-      "version": 145,
-      "versionNonce": 732664657,
+      "version": 146,
+      "versionNonce": 1940747528,
       "isDeleted": false,
       "id": "Il6FLCP9h3C-pfQzDddWk",
       "fillStyle": "hachure",
@@ -4671,7 +4671,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640688,
+      "updated": 1688754695842,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4788,8 +4788,8 @@
     },
     {
       "type": "text",
-      "version": 269,
-      "versionNonce": 1694942783,
+      "version": 270,
+      "versionNonce": 2144747384,
       "isDeleted": false,
       "id": "BNxs_eN8o2uJ2zNd3LDPS",
       "fillStyle": "hachure",
@@ -4825,7 +4825,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640688,
+      "updated": 1688754695842,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4891,8 +4891,8 @@
     },
     {
       "type": "text",
-      "version": 254,
-      "versionNonce": 1751056689,
+      "version": 255,
+      "versionNonce": 1061786632,
       "isDeleted": false,
       "id": "CmbBIdUPSBEaBexHdGZsi",
       "fillStyle": "hachure",
@@ -4920,7 +4920,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640689,
+      "updated": 1688754695843,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5037,8 +5037,8 @@
     },
     {
       "type": "text",
-      "version": 162,
-      "versionNonce": 301049439,
+      "version": 163,
+      "versionNonce": 1657770104,
       "isDeleted": false,
       "id": "4CopV-uLsXEQrJv465gZP",
       "fillStyle": "hachure",
@@ -5062,7 +5062,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640690,
+      "updated": 1688754695844,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5128,8 +5128,8 @@
     },
     {
       "type": "text",
-      "version": 253,
-      "versionNonce": 2083107601,
+      "version": 254,
+      "versionNonce": 537514760,
       "isDeleted": false,
       "id": "idRs11QpMzm8KyMFEmGu3",
       "fillStyle": "hachure",
@@ -5157,7 +5157,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640690,
+      "updated": 1688754695844,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5223,8 +5223,8 @@
     },
     {
       "type": "text",
-      "version": 229,
-      "versionNonce": 2060157567,
+      "version": 230,
+      "versionNonce": 477544824,
       "isDeleted": false,
       "id": "qQ97wqBeC_yI7WwJ-yHb7",
       "fillStyle": "hachure",
@@ -5264,7 +5264,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640691,
+      "updated": 1688754695845,
       "link": "https://smallfuel.com/blog/entry/how-to-introduce-yourself-to-someone-youve-never-met/",
       "locked": false,
       "fontSize": 20,
@@ -5483,8 +5483,8 @@
     },
     {
       "type": "text",
-      "version": 390,
-      "versionNonce": 193145073,
+      "version": 391,
+      "versionNonce": 476721672,
       "isDeleted": false,
       "id": "fs_X9ya9IJp8esV2w_vbm",
       "fillStyle": "hachure",
@@ -5516,7 +5516,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640691,
+      "updated": 1688754695845,
       "link": "https://theauthenticmarketer.com/b2b-marketing/how-to-ask-someone-to-share-something/",
       "locked": false,
       "fontSize": 20,
@@ -5531,8 +5531,8 @@
     },
     {
       "type": "text",
-      "version": 485,
-      "versionNonce": 1079302815,
+      "version": 486,
+      "versionNonce": 1544540792,
       "isDeleted": false,
       "id": "J9S1c6Nid1glIdocUJSgq",
       "fillStyle": "hachure",
@@ -5564,7 +5564,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640692,
+      "updated": 1688754695846,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5681,8 +5681,8 @@
     },
     {
       "type": "text",
-      "version": 489,
-      "versionNonce": 1072882385,
+      "version": 490,
+      "versionNonce": 191279368,
       "isDeleted": false,
       "id": "O_y63RUvFmTbk8dleFouB",
       "fillStyle": "hachure",
@@ -5718,7 +5718,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640692,
+      "updated": 1688754695846,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5784,8 +5784,8 @@
     },
     {
       "type": "text",
-      "version": 168,
-      "versionNonce": 389951167,
+      "version": 169,
+      "versionNonce": 1214169976,
       "isDeleted": false,
       "id": "yGGrHEHNc9ipdnBG1KbMs",
       "fillStyle": "hachure",
@@ -5809,7 +5809,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640693,
+      "updated": 1688754695847,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5875,8 +5875,8 @@
     },
     {
       "type": "text",
-      "version": 89,
-      "versionNonce": 638607537,
+      "version": 90,
+      "versionNonce": 75190280,
       "isDeleted": false,
       "id": "YSLO5dYQvDbInc5VS9aJ7",
       "fillStyle": "hachure",
@@ -5904,7 +5904,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640693,
+      "updated": 1688754695847,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5919,8 +5919,8 @@
     },
     {
       "type": "text",
-      "version": 125,
-      "versionNonce": 1244135135,
+      "version": 126,
+      "versionNonce": 262640760,
       "isDeleted": false,
       "id": "xBgy9w7YwwDtqeQcVu89d",
       "fillStyle": "hachure",
@@ -5952,7 +5952,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640694,
+      "updated": 1688754695848,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5967,8 +5967,8 @@
     },
     {
       "type": "text",
-      "version": 134,
-      "versionNonce": 1266885265,
+      "version": 135,
+      "versionNonce": 1336151816,
       "isDeleted": false,
       "id": "XUFosJY2M3pjmngA_-CLa",
       "fillStyle": "hachure",
@@ -6000,7 +6000,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640694,
+      "updated": 1688754695848,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6015,8 +6015,8 @@
     },
     {
       "type": "text",
-      "version": 166,
-      "versionNonce": 2074266367,
+      "version": 167,
+      "versionNonce": 2007909752,
       "isDeleted": false,
       "id": "gkHrTgsX1VKOfQypqgHRR",
       "fillStyle": "hachure",
@@ -6044,7 +6044,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640696,
+      "updated": 1688754695849,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6059,8 +6059,8 @@
     },
     {
       "type": "text",
-      "version": 130,
-      "versionNonce": 486713457,
+      "version": 131,
+      "versionNonce": 1432153608,
       "isDeleted": false,
       "id": "Lsb3jA6QJA5v4PQVug_QQ",
       "fillStyle": "hachure",
@@ -6084,7 +6084,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640697,
+      "updated": 1688754695850,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6405,8 +6405,8 @@
     },
     {
       "type": "text",
-      "version": 324,
-      "versionNonce": 674173727,
+      "version": 325,
+      "versionNonce": 1840699000,
       "isDeleted": false,
       "id": "iN8udhn0pkxYOXjJVxHWt",
       "fillStyle": "hachure",
@@ -6446,7 +6446,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640697,
+      "updated": 1688754695850,
       "link": "https://hbr.org/2020/11/what-to-say-when-youre-reaching-out-to-someone-on-linkedin",
       "locked": false,
       "fontSize": 20,
@@ -6461,8 +6461,8 @@
     },
     {
       "type": "text",
-      "version": 174,
-      "versionNonce": 72774225,
+      "version": 175,
+      "versionNonce": 245493000,
       "isDeleted": false,
       "id": "miFWGUq4iUDMm4Ozoy74q",
       "fillStyle": "hachure",
@@ -6490,7 +6490,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640697,
+      "updated": 1688754695851,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6556,8 +6556,8 @@
     },
     {
       "type": "text",
-      "version": 162,
-      "versionNonce": 1748850495,
+      "version": 163,
+      "versionNonce": 377833336,
       "isDeleted": false,
       "id": "VctXIfwoNvX1us4azeYBL",
       "fillStyle": "hachure",
@@ -6585,7 +6585,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640699,
+      "updated": 1688754695851,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6651,8 +6651,8 @@
     },
     {
       "type": "text",
-      "version": 297,
-      "versionNonce": 1180041265,
+      "version": 298,
+      "versionNonce": 1961823240,
       "isDeleted": false,
       "id": "bQEw39OEBVDEtOebI1pZi",
       "fillStyle": "hachure",
@@ -6692,7 +6692,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640699,
+      "updated": 1688754695852,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6758,8 +6758,8 @@
     },
     {
       "type": "text",
-      "version": 197,
-      "versionNonce": 1915623263,
+      "version": 198,
+      "versionNonce": 1583192184,
       "isDeleted": false,
       "id": "IDGSa8MxQB077eXRRlO_3",
       "fillStyle": "hachure",
@@ -6783,7 +6783,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640700,
+      "updated": 1688754695853,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6798,8 +6798,8 @@
     },
     {
       "type": "text",
-      "version": 160,
-      "versionNonce": 552129041,
+      "version": 161,
+      "versionNonce": 1916816136,
       "isDeleted": false,
       "id": "rTPtauIeezryncar4iS0m",
       "fillStyle": "hachure",
@@ -6823,7 +6823,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640701,
+      "updated": 1688754695854,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6879,8 +6879,8 @@
     },
     {
       "type": "text",
-      "version": 213,
-      "versionNonce": 1548866431,
+      "version": 214,
+      "versionNonce": 151243128,
       "isDeleted": false,
       "id": "t05yOdj15_yVtd-KFxv4o",
       "fillStyle": "hachure",
@@ -6904,7 +6904,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640702,
+      "updated": 1688754695855,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -6919,8 +6919,8 @@
     },
     {
       "type": "text",
-      "version": 199,
-      "versionNonce": 688285681,
+      "version": 200,
+      "versionNonce": 1360112136,
       "isDeleted": false,
       "id": "lbBj9m-wqSweYgOxsC9Pe",
       "fillStyle": "hachure",
@@ -6944,7 +6944,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640702,
+      "updated": 1688754695856,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7163,8 +7163,8 @@
     },
     {
       "type": "text",
-      "version": 319,
-      "versionNonce": 518589343,
+      "version": 320,
+      "versionNonce": 1102830200,
       "isDeleted": false,
       "id": "z101Kw3TAA_nb8-_UJYql",
       "fillStyle": "hachure",
@@ -7188,7 +7188,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640703,
+      "updated": 1688754695857,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7254,8 +7254,8 @@
     },
     {
       "type": "text",
-      "version": 349,
-      "versionNonce": 1756774865,
+      "version": 350,
+      "versionNonce": 744433928,
       "isDeleted": false,
       "id": "ivSMmBV7NpzJcX8h2EmbM",
       "fillStyle": "hachure",
@@ -7283,7 +7283,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640704,
+      "updated": 1688754695859,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7349,8 +7349,8 @@
     },
     {
       "type": "text",
-      "version": 217,
-      "versionNonce": 1445216191,
+      "version": 218,
+      "versionNonce": 726256504,
       "isDeleted": false,
       "id": "kzqgNEfHNi_wqsLM1H3y-",
       "fillStyle": "hachure",
@@ -7374,7 +7374,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640704,
+      "updated": 1688754695860,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7440,8 +7440,8 @@
     },
     {
       "type": "text",
-      "version": 207,
-      "versionNonce": 1024450481,
+      "version": 208,
+      "versionNonce": 1604634632,
       "isDeleted": false,
       "id": "cxTDXd7tI5dqaVqynzQkP",
       "fillStyle": "hachure",
@@ -7469,7 +7469,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640705,
+      "updated": 1688754695861,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7586,8 +7586,8 @@
     },
     {
       "type": "text",
-      "version": 651,
-      "versionNonce": 1143205855,
+      "version": 652,
+      "versionNonce": 1878105208,
       "isDeleted": false,
       "id": "6uC9xnrcJn9dEc7_fMipr",
       "fillStyle": "hachure",
@@ -7635,7 +7635,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640705,
+      "updated": 1688754695862,
       "link": "https://youtu.be/cFdCzN7RYbw",
       "locked": false,
       "fontSize": 20,
@@ -7701,8 +7701,8 @@
     },
     {
       "type": "text",
-      "version": 175,
-      "versionNonce": 1950007697,
+      "version": 176,
+      "versionNonce": 1994295048,
       "isDeleted": false,
       "id": "sEUdN_LcA1mtWuVJ6aTUC",
       "fillStyle": "hachure",
@@ -7730,7 +7730,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640706,
+      "updated": 1688754695863,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7796,8 +7796,8 @@
     },
     {
       "type": "text",
-      "version": 176,
-      "versionNonce": 318282751,
+      "version": 177,
+      "versionNonce": 1366773112,
       "isDeleted": false,
       "id": "FgmwJI4k3Lumr9g58uopL",
       "fillStyle": "hachure",
@@ -7821,7 +7821,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640707,
+      "updated": 1688754695863,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7887,8 +7887,8 @@
     },
     {
       "type": "text",
-      "version": 124,
-      "versionNonce": 728655729,
+      "version": 125,
+      "versionNonce": 512255496,
       "isDeleted": false,
       "id": "YHpDAIa9qkyMsHnzLXuXw",
       "fillStyle": "hachure",
@@ -7916,7 +7916,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640708,
+      "updated": 1688754695864,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7982,8 +7982,8 @@
     },
     {
       "type": "text",
-      "version": 268,
-      "versionNonce": 1453507615,
+      "version": 269,
+      "versionNonce": 958324344,
       "isDeleted": false,
       "id": "FxGn5VqFTdDTkKvDhcBYX",
       "fillStyle": "hachure",
@@ -8007,7 +8007,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640709,
+      "updated": 1688754695865,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8073,8 +8073,8 @@
     },
     {
       "type": "text",
-      "version": 235,
-      "versionNonce": 1827819857,
+      "version": 236,
+      "versionNonce": 329147656,
       "isDeleted": false,
       "id": "nw4xqpJFKVLEcK2g1ZfBu",
       "fillStyle": "hachure",
@@ -8098,7 +8098,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640709,
+      "updated": 1688754695865,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8164,8 +8164,8 @@
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 1326639167,
+      "version": 54,
+      "versionNonce": 1202474872,
       "isDeleted": false,
       "id": "lESlI5MPgPEyd90hpB7E_",
       "fillStyle": "hachure",
@@ -8193,7 +8193,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640710,
+      "updated": 1688754695866,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8208,8 +8208,8 @@
     },
     {
       "type": "text",
-      "version": 192,
-      "versionNonce": 236846897,
+      "version": 193,
+      "versionNonce": 329024520,
       "isDeleted": false,
       "id": "D3Cmhj2mKo3Ci-bN2nHMH",
       "fillStyle": "hachure",
@@ -8237,7 +8237,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640710,
+      "updated": 1688754695867,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8405,8 +8405,8 @@
     },
     {
       "type": "text",
-      "version": 168,
-      "versionNonce": 1781106783,
+      "version": 169,
+      "versionNonce": 1701027960,
       "isDeleted": false,
       "id": "KhH3KeHtFTcw3K0Fk2GHn",
       "fillStyle": "hachure",
@@ -8438,7 +8438,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640711,
+      "updated": 1688754695867,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8504,8 +8504,8 @@
     },
     {
       "type": "text",
-      "version": 42,
-      "versionNonce": 1297674513,
+      "version": 43,
+      "versionNonce": 1283375880,
       "isDeleted": false,
       "id": "PNpGNIyIv_8MRXExINwNw",
       "fillStyle": "hachure",
@@ -8529,7 +8529,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640711,
+      "updated": 1688754695868,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8595,8 +8595,8 @@
     },
     {
       "type": "text",
-      "version": 210,
-      "versionNonce": 95888511,
+      "version": 211,
+      "versionNonce": 1376309624,
       "isDeleted": false,
       "id": "HV3gPzt3B7b40GRdcizg1",
       "fillStyle": "hachure",
@@ -8624,7 +8624,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640712,
+      "updated": 1688754695869,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8690,8 +8690,8 @@
     },
     {
       "type": "text",
-      "version": 98,
-      "versionNonce": 807053041,
+      "version": 99,
+      "versionNonce": 1287725576,
       "isDeleted": false,
       "id": "peB_xwllHNAytRAALCnNW",
       "fillStyle": "hachure",
@@ -8719,7 +8719,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640712,
+      "updated": 1688754695870,
       "link": "https://youtu.be/tJKD0UW9rDU",
       "locked": false,
       "fontSize": 20,
@@ -8785,8 +8785,8 @@
     },
     {
       "type": "text",
-      "version": 372,
-      "versionNonce": 1903967391,
+      "version": 373,
+      "versionNonce": 887087736,
       "isDeleted": false,
       "id": "2q7LOFVgPy8eE46yAyCjk",
       "fillStyle": "hachure",
@@ -8826,7 +8826,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640712,
+      "updated": 1688754695871,
       "link": "https://www.youtube.com/watch?v=VAehmkU9xXo",
       "locked": false,
       "fontSize": 20,
@@ -8841,8 +8841,8 @@
     },
     {
       "type": "text",
-      "version": 316,
-      "versionNonce": 552247505,
+      "version": 317,
+      "versionNonce": 1935646984,
       "isDeleted": false,
       "id": "oA8zr-AEp5reUEOMJ87b1",
       "fillStyle": "hachure",
@@ -8874,7 +8874,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640713,
+      "updated": 1688754695871,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8889,8 +8889,8 @@
     },
     {
       "type": "text",
-      "version": 417,
-      "versionNonce": 824791231,
+      "version": 418,
+      "versionNonce": 749523832,
       "isDeleted": false,
       "id": "rl0kL22p59b5ebJPxUNyj",
       "fillStyle": "hachure",
@@ -8918,7 +8918,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640713,
+      "updated": 1688754695872,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8933,8 +8933,8 @@
     },
     {
       "type": "text",
-      "version": 328,
-      "versionNonce": 1298161329,
+      "version": 329,
+      "versionNonce": 1607876616,
       "isDeleted": false,
       "id": "OfdyQFwwZ4pyQh-M3awKD",
       "fillStyle": "hachure",
@@ -8966,7 +8966,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640714,
+      "updated": 1688754695873,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9134,8 +9134,8 @@
     },
     {
       "type": "text",
-      "version": 424,
-      "versionNonce": 2120147167,
+      "version": 425,
+      "versionNonce": 1605608568,
       "isDeleted": false,
       "id": "H0vgr7ZhqMqxHC04a8i38",
       "fillStyle": "hachure",
@@ -9171,7 +9171,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640716,
+      "updated": 1688754695875,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9441,8 +9441,8 @@
     },
     {
       "type": "text",
-      "version": 148,
-      "versionNonce": 1143169169,
+      "version": 149,
+      "versionNonce": 1646329608,
       "isDeleted": false,
       "id": "Ps9CuGHAMIvZU7u5hna4E",
       "fillStyle": "hachure",
@@ -9470,7 +9470,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640717,
+      "updated": 1688754695876,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9638,8 +9638,8 @@
     },
     {
       "type": "text",
-      "version": 11,
-      "versionNonce": 179137791,
+      "version": 12,
+      "versionNonce": 196629880,
       "isDeleted": false,
       "id": "H1ct8DcZS858v5RmSw4zf",
       "fillStyle": "hachure",
@@ -9663,7 +9663,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640717,
+      "updated": 1688754695876,
       "link": "https://www.linkedin.com/pulse/how-reach-out-recruiters-linkedin-message-examples-lee/",
       "locked": false,
       "fontSize": 20,
@@ -9729,8 +9729,8 @@
     },
     {
       "type": "text",
-      "version": 200,
-      "versionNonce": 1391142513,
+      "version": 201,
+      "versionNonce": 1790696968,
       "isDeleted": false,
       "id": "DwFClLQd8WuMHGcOijgj_",
       "fillStyle": "hachure",
@@ -9770,7 +9770,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640718,
+      "updated": 1688754695877,
       "link": "https://resources.workable.com/tutorial/hr-interview-questions",
       "locked": false,
       "fontSize": 20,
@@ -9785,8 +9785,8 @@
     },
     {
       "type": "text",
-      "version": 18,
-      "versionNonce": 26572063,
+      "version": 19,
+      "versionNonce": 369026680,
       "isDeleted": false,
       "id": "PL9ZIwIBM3Akic3CIRtId",
       "fillStyle": "hachure",
@@ -9814,7 +9814,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640718,
+      "updated": 1688754695878,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9829,8 +9829,8 @@
     },
     {
       "type": "text",
-      "version": 35,
-      "versionNonce": 612315217,
+      "version": 36,
+      "versionNonce": 2057493768,
       "isDeleted": false,
       "id": "N_JKjAvg5Y9zVvze9owKJ",
       "fillStyle": "hachure",
@@ -9854,7 +9854,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640719,
+      "updated": 1688754695879,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9971,8 +9971,8 @@
     },
     {
       "type": "text",
-      "version": 48,
-      "versionNonce": 1250392383,
+      "version": 49,
+      "versionNonce": 457922424,
       "isDeleted": false,
       "id": "yXH1J15CYHT9_9RmgNUkC",
       "fillStyle": "hachure",
@@ -10000,7 +10000,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640719,
+      "updated": 1688754695880,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10015,8 +10015,8 @@
     },
     {
       "type": "text",
-      "version": 43,
-      "versionNonce": 515309105,
+      "version": 44,
+      "versionNonce": 324140040,
       "isDeleted": false,
       "id": "UcJv5fMY56Kg_eNyQ3YyS",
       "fillStyle": "hachure",
@@ -10040,7 +10040,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640720,
+      "updated": 1688754695880,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10157,8 +10157,8 @@
     },
     {
       "type": "text",
-      "version": 45,
-      "versionNonce": 182712671,
+      "version": 46,
+      "versionNonce": 2145495160,
       "isDeleted": false,
       "id": "MaQW1P7ZSneG_dYFeA75o",
       "fillStyle": "hachure",
@@ -10186,7 +10186,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640721,
+      "updated": 1688754695881,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10201,8 +10201,8 @@
     },
     {
       "type": "text",
-      "version": 45,
-      "versionNonce": 7999505,
+      "version": 46,
+      "versionNonce": 650459912,
       "isDeleted": false,
       "id": "dqbvDzrvJjvgnJ1gYXMAJ",
       "fillStyle": "hachure",
@@ -10226,7 +10226,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640722,
+      "updated": 1688754695882,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10343,8 +10343,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 1744532863,
+      "version": 53,
+      "versionNonce": 2139478392,
       "isDeleted": false,
       "id": "K_6zyPyR_Ia47UCfLhYsd",
       "fillStyle": "hachure",
@@ -10372,7 +10372,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640722,
+      "updated": 1688754695882,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10387,8 +10387,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 1069540849,
+      "version": 53,
+      "versionNonce": 125344264,
       "isDeleted": false,
       "id": "G_Os9O6gOAmT4gBSbiM4-",
       "fillStyle": "hachure",
@@ -10412,7 +10412,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640723,
+      "updated": 1688754695883,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10529,8 +10529,8 @@
     },
     {
       "type": "text",
-      "version": 31,
-      "versionNonce": 151940511,
+      "version": 32,
+      "versionNonce": 1031531128,
       "isDeleted": false,
       "id": "Eg3kbZkmuXa4pcNwSAJPp",
       "fillStyle": "hachure",
@@ -10558,7 +10558,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640723,
+      "updated": 1688754695884,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10573,8 +10573,8 @@
     },
     {
       "type": "text",
-      "version": 43,
-      "versionNonce": 663748561,
+      "version": 44,
+      "versionNonce": 1483217160,
       "isDeleted": false,
       "id": "8_V2eUtdUvoWJ9xuPj3u7",
       "fillStyle": "hachure",
@@ -10598,7 +10598,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640725,
+      "updated": 1688754695885,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10715,8 +10715,8 @@
     },
     {
       "type": "text",
-      "version": 64,
-      "versionNonce": 1498243519,
+      "version": 65,
+      "versionNonce": 1418189688,
       "isDeleted": false,
       "id": "0cYG-dCVPC-MVM-Innt7B",
       "fillStyle": "hachure",
@@ -10740,7 +10740,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640726,
+      "updated": 1688754695886,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10755,8 +10755,8 @@
     },
     {
       "type": "text",
-      "version": 58,
-      "versionNonce": 906091953,
+      "version": 59,
+      "versionNonce": 2098182152,
       "isDeleted": false,
       "id": "d7DNF41lxGZrLhQvsPwv0",
       "fillStyle": "hachure",
@@ -10780,7 +10780,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640726,
+      "updated": 1688754695888,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -10889,8 +10889,8 @@
     },
     {
       "type": "text",
-      "version": 109,
-      "versionNonce": 165204447,
+      "version": 110,
+      "versionNonce": 1726852216,
       "isDeleted": false,
       "id": "Z1fK7X-R8pADhyEip9iMh",
       "fillStyle": "hachure",
@@ -10934,7 +10934,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640727,
+      "updated": 1688754695889,
       "link": "https://je-tu-elles.com/le-small-talk-comment-reussir-cet-exercice-social/",
       "locked": false,
       "fontSize": 20,
@@ -11000,8 +11000,8 @@
     },
     {
       "type": "text",
-      "version": 52,
-      "versionNonce": 977076113,
+      "version": 53,
+      "versionNonce": 158037768,
       "isDeleted": false,
       "id": "w1wIiyQ8atiYeCSfzcKWX",
       "fillStyle": "hachure",
@@ -11025,7 +11025,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640727,
+      "updated": 1688754695889,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11091,8 +11091,8 @@
     },
     {
       "type": "text",
-      "version": 47,
-      "versionNonce": 1405173247,
+      "version": 48,
+      "versionNonce": 779181432,
       "isDeleted": false,
       "id": "C9NmHaErv6ROk--a2xWMp",
       "fillStyle": "hachure",
@@ -11116,7 +11116,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640728,
+      "updated": 1688754695890,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11182,8 +11182,8 @@
     },
     {
       "type": "text",
-      "version": 46,
-      "versionNonce": 846783857,
+      "version": 47,
+      "versionNonce": 838293000,
       "isDeleted": false,
       "id": "gqhMNW9XsU1CKkVG_gTis",
       "fillStyle": "hachure",
@@ -11211,7 +11211,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640728,
+      "updated": 1688754695891,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11379,8 +11379,8 @@
     },
     {
       "type": "text",
-      "version": 40,
-      "versionNonce": 2047288863,
+      "version": 41,
+      "versionNonce": 207023736,
       "isDeleted": false,
       "id": "NacR9TExyMgmdeLzlwVbi",
       "fillStyle": "hachure",
@@ -11412,7 +11412,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640728,
+      "updated": 1688754695892,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11478,8 +11478,8 @@
     },
     {
       "type": "text",
-      "version": 55,
-      "versionNonce": 1778192209,
+      "version": 56,
+      "versionNonce": 1001346312,
       "isDeleted": false,
       "id": "130qVevECSO9nlmIJJLg0",
       "fillStyle": "hachure",
@@ -11503,7 +11503,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640729,
+      "updated": 1688754695892,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11518,8 +11518,8 @@
     },
     {
       "type": "text",
-      "version": 127,
-      "versionNonce": 194710079,
+      "version": 128,
+      "versionNonce": 425877368,
       "isDeleted": false,
       "id": "4ffBGK-as7oBppiTgr0K4",
       "fillStyle": "hachure",
@@ -11567,7 +11567,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640729,
+      "updated": 1688754695893,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11735,8 +11735,8 @@
     },
     {
       "type": "text",
-      "version": 35,
-      "versionNonce": 1461779761,
+      "version": 36,
+      "versionNonce": 1812952072,
       "isDeleted": false,
       "id": "925N0P5_kHwS0AMS6hZPw",
       "fillStyle": "hachure",
@@ -11760,7 +11760,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640730,
+      "updated": 1688754695894,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11826,8 +11826,8 @@
     },
     {
       "type": "text",
-      "version": 66,
-      "versionNonce": 1700620895,
+      "version": 67,
+      "versionNonce": 903327864,
       "isDeleted": false,
       "id": "zr1JL0pMNvQ9cRMHVFIpX",
       "fillStyle": "hachure",
@@ -11851,7 +11851,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640730,
+      "updated": 1688754695895,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -11917,8 +11917,8 @@
     },
     {
       "type": "text",
-      "version": 71,
-      "versionNonce": 961294097,
+      "version": 72,
+      "versionNonce": 2031334152,
       "isDeleted": false,
       "id": "jFzeOPazHppUhvCG-V_pg",
       "fillStyle": "hachure",
@@ -11942,7 +11942,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640731,
+      "updated": 1688754695896,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12008,8 +12008,8 @@
     },
     {
       "type": "text",
-      "version": 33,
-      "versionNonce": 1948173951,
+      "version": 34,
+      "versionNonce": 427483512,
       "isDeleted": false,
       "id": "v7RJyksVY6rOah_ilIEUm",
       "fillStyle": "hachure",
@@ -12033,7 +12033,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640731,
+      "updated": 1688754695896,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12099,8 +12099,8 @@
     },
     {
       "type": "text",
-      "version": 132,
-      "versionNonce": 1995842801,
+      "version": 133,
+      "versionNonce": 2033717768,
       "isDeleted": false,
       "id": "jIRLsD8dxlx2764_YK-dN",
       "fillStyle": "hachure",
@@ -12132,7 +12132,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640732,
+      "updated": 1688754695897,
       "link": "https://www.youtube.com/watch?v=HABFEs90MZ8",
       "locked": false,
       "fontSize": 20,
@@ -12249,8 +12249,8 @@
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 916430495,
+      "version": 54,
+      "versionNonce": 1670378104,
       "isDeleted": false,
       "id": "yJdLR9hRF3F9mypyM-lZy",
       "fillStyle": "hachure",
@@ -12274,7 +12274,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640732,
+      "updated": 1688754695898,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12340,8 +12340,8 @@
     },
     {
       "type": "text",
-      "version": 76,
-      "versionNonce": 1000758993,
+      "version": 77,
+      "versionNonce": 1400410376,
       "isDeleted": false,
       "id": "hgM_poRtJaAw17R71siiD",
       "fillStyle": "hachure",
@@ -12369,7 +12369,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640734,
+      "updated": 1688754695899,
       "link": "https://youtu.be/iugG-4jnSqw",
       "locked": false,
       "fontSize": 20,
@@ -12384,8 +12384,8 @@
     },
     {
       "type": "text",
-      "version": 117,
-      "versionNonce": 2140172991,
+      "version": 118,
+      "versionNonce": 718988152,
       "isDeleted": false,
       "id": "O3CmevHAWAfuSfQ8B17Xg",
       "fillStyle": "hachure",
@@ -12413,7 +12413,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640734,
+      "updated": 1688754695900,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12479,8 +12479,8 @@
     },
     {
       "type": "text",
-      "version": 165,
-      "versionNonce": 1442077873,
+      "version": 166,
+      "versionNonce": 793849864,
       "isDeleted": false,
       "id": "ITjcvSoyus1rdNf1BcEyN",
       "fillStyle": "hachure",
@@ -12512,7 +12512,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640734,
+      "updated": 1688754695901,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12578,8 +12578,8 @@
     },
     {
       "type": "text",
-      "version": 137,
-      "versionNonce": 2006041311,
+      "version": 138,
+      "versionNonce": 228570232,
       "isDeleted": false,
       "id": "MJir1c2UfClayX3rma-9U",
       "fillStyle": "hachure",
@@ -12611,7 +12611,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640735,
+      "updated": 1688754695901,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12728,8 +12728,8 @@
     },
     {
       "type": "text",
-      "version": 141,
-      "versionNonce": 1434951313,
+      "version": 142,
+      "versionNonce": 1690169096,
       "isDeleted": false,
       "id": "rCETGHzUwcPpAFzqiO6bf",
       "fillStyle": "hachure",
@@ -12761,7 +12761,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640735,
+      "updated": 1688754695902,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12827,8 +12827,8 @@
     },
     {
       "type": "text",
-      "version": 170,
-      "versionNonce": 1597247231,
+      "version": 171,
+      "versionNonce": 1101161848,
       "isDeleted": false,
       "id": "FGTUoIS3U8fjHQQQvEJgN",
       "fillStyle": "hachure",
@@ -12856,7 +12856,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640736,
+      "updated": 1688754695903,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -12922,8 +12922,8 @@
     },
     {
       "type": "text",
-      "version": 185,
-      "versionNonce": 1763157105,
+      "version": 186,
+      "versionNonce": 1815793160,
       "isDeleted": false,
       "id": "5Oo8khmpY5QbeLHdRH3He",
       "fillStyle": "hachure",
@@ -12951,7 +12951,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640736,
+      "updated": 1688754695904,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -13068,8 +13068,8 @@
     },
     {
       "type": "text",
-      "version": 61,
-      "versionNonce": 284677919,
+      "version": 62,
+      "versionNonce": 606533240,
       "isDeleted": false,
       "id": "JSLi9ABHJCvc2Q6xEJrmL",
       "fillStyle": "hachure",
@@ -13093,7 +13093,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640736,
+      "updated": 1688754695905,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -13159,8 +13159,8 @@
     },
     {
       "type": "text",
-      "version": 112,
-      "versionNonce": 2087448145,
+      "version": 113,
+      "versionNonce": 1321454856,
       "isDeleted": false,
       "id": "P4DORV9ajCZQV65oNhwfp",
       "fillStyle": "hachure",
@@ -13184,7 +13184,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1688382640737,
+      "updated": 1688754695905,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -13250,8 +13250,8 @@
     },
     {
       "type": "text",
-      "version": 35,
-      "versionNonce": 1129159487,
+      "version": 36,
+      "versionNonce": 1240557432,
       "isDeleted": false,
       "id": "OHryNe6eLfl3ZNltMbQcp",
       "fillStyle": "hachure",
@@ -13270,7 +13270,7 @@
       "groupIds": [],
       "roundness": null,
       "boundElements": [],
-      "updated": 1688382640737,
+      "updated": 1688754695906,
       "link": "https://blog.samaltman.com/how-to-be-successful",
       "locked": false,
       "fontSize": 20,
@@ -13284,27 +13284,27 @@
       "baseline": 18
     },
     {
-      "id": "lNOKy4xqwe6F-bsQHAzJd",
       "type": "image",
-      "x": 7509.373195578533,
-      "y": 1234.877977104802,
-      "width": 1440,
-      "height": 824,
-      "angle": 0,
-      "strokeColor": "transparent",
-      "backgroundColor": "transparent",
+      "version": 22,
+      "versionNonce": 1468539505,
+      "isDeleted": false,
+      "id": "lNOKy4xqwe6F-bsQHAzJd",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 7509.373195578533,
+      "y": 1234.877977104802,
+      "strokeColor": "transparent",
+      "backgroundColor": "transparent",
+      "width": 1440,
+      "height": 824,
+      "seed": 1993297425,
       "groupIds": [],
       "roundness": null,
-      "seed": 1993297425,
-      "version": 22,
-      "versionNonce": 1468539505,
-      "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1688382679193,
       "link": "https://skillshop.exceedlms.com/student/collection/655252/path/1699892",
       "locked": false,
@@ -13314,6 +13314,41 @@
         1,
         1
       ]
+    },
+    {
+      "id": "FqxwaFDMLgBRiyDEzC15f",
+      "type": "text",
+      "x": 9828.074668778816,
+      "y": 1292.9475080781872,
+      "width": 1092.33935546875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 996813576,
+      "version": 3,
+      "versionNonce": 1553008904,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1688754717125,
+      "link": "https://youtu.be/uQEuo7woEEk",
+      "locked": false,
+      "text": " STAR INTERVIEW QUESTIONS & ANSWERS! (The STAR TECHNIQUE for Behavioural Interview Questions!) ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": " STAR INTERVIEW QUESTIONS & ANSWERS! (The STAR TECHNIQUE for Behavioural Interview Questions!) ",
+      "lineHeight": 1.25
     }
   ],
   "appState": {
